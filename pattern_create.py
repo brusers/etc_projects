@@ -1,5 +1,3 @@
-This is a test
-
 import sys, string, re
 
 arguments = []
